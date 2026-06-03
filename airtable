@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "airtable": {
+      "type": "http",
+      "url": "https://mcp.airtable.com/mcp",
+      "headers": {
+        "Authorization": "Bearer patDms7v5kiAq747l.a5e97a69fc9972b75aa9ef7f9fbc4ef80b20f18b502015a83607d73ad4077877"
+      }
+    }
+  }
+}
